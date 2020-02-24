@@ -1,0 +1,11 @@
+/Users/Bthom/Desktop/grocery-list/obj/Debug/netcoreapp2.2/GroceryList.csprojAssemblyReference.cache
+/Users/Bthom/Desktop/grocery-list/obj/Debug/netcoreapp2.2/GroceryList.csproj.CoreCompileInputs.cache
+/Users/Bthom/Desktop/grocery-list/obj/Debug/netcoreapp2.2/GroceryList.AssemblyInfoInputs.cache
+/Users/Bthom/Desktop/grocery-list/obj/Debug/netcoreapp2.2/GroceryList.AssemblyInfo.cs
+/Users/Bthom/Desktop/grocery-list/bin/Debug/netcoreapp2.2/GroceryList.deps.json
+/Users/Bthom/Desktop/grocery-list/bin/Debug/netcoreapp2.2/GroceryList.runtimeconfig.json
+/Users/Bthom/Desktop/grocery-list/bin/Debug/netcoreapp2.2/GroceryList.runtimeconfig.dev.json
+/Users/Bthom/Desktop/grocery-list/bin/Debug/netcoreapp2.2/GroceryList.dll
+/Users/Bthom/Desktop/grocery-list/bin/Debug/netcoreapp2.2/GroceryList.pdb
+/Users/Bthom/Desktop/grocery-list/obj/Debug/netcoreapp2.2/GroceryList.dll
+/Users/Bthom/Desktop/grocery-list/obj/Debug/netcoreapp2.2/GroceryList.pdb
